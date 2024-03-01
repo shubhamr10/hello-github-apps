@@ -1,2 +1,2 @@
-puts "Hello, World!"
-puts "Ok, I see Ruby"
+puts 'Hello, World!'
+puts 'Ok, I see Ruby'
