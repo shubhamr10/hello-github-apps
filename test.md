@@ -1,5 +1,3 @@
-# This is test file
-for createing a PR for the master branch
+#This is a CI build test tool
 
-again this is a file. I can see that you can see what i need
-updating the test again to crete a PR
+This is a test tool how you can create the code.
