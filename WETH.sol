@@ -2,6 +2,7 @@
 
 pragma solidity ^0.8.0;
 // updating this file and generating report
+// this is WETH contract file, use carefully
 import {ERC20} from "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 
 contract WETH is ERC20 {
