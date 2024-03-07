@@ -5,7 +5,7 @@ import "@uniswap/v3-periphery/contracts/interfaces/ISwapRouter.sol";
 import "@uniswap/v3-periphery/contracts/libraries/TransferHelper.sol";
 
 / SimpleSwap
-/// simple swap
+/// simple swap  
 contract SimpleSwap {
     ISwapRouter public immutable swapRouter;
     address public constant DAI = 0x6B175474E89094C44Da98b954EedeAC495271d0F;
