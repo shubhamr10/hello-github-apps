@@ -14,7 +14,7 @@ contract WETH is ERC20 {aa
     function decimals() public pure override returns (uint8) {
         return 18;
     }
-
+// ok
     //              send ETH
     //                 |
     //         is msg.data empty?
